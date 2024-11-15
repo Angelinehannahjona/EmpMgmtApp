@@ -78,6 +78,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ADO.net\EmployeeRepository.cs" />
+    <Compile Include="angel.cs" />
     <Compile Include="EmpMgmt_2nd.cs" />
     <None Include="EmpMgmt.cs" />
     <Compile Include="Employee.cs" />
